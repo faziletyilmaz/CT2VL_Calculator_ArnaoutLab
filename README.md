@@ -26,9 +26,13 @@ Requirements:
 
 #### 4. Open your teminal 
 - Spotlight search, or Applications/Utilities/Terminal 
-  - Type  cd ../ct2vl_user_adjusted
-- 
+
+Run the following codes in order
+
+cd ../ct2vl_user_adjusted 
+
+ 
+ 
 
 
-#### 3. Get the Docker container 
 
